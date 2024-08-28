@@ -8,6 +8,15 @@ Streamlit offers a simple and effective solution for creating user-friendly inte
 
 To enhance the front-end of your application, explore the official [Streamlit API reference](https://docs.streamlit.io/develop/api-reference), which provides a comprehensive guide to the various methods and features available in Streamlit.
 
+## Basic Steps to Deploy
+
+![Steps to deploy](steps-to-deplot-streamlit.jpg "Basics steps to deploy using Streamlit")
+
+
+## App Link
+
+https://iris-model-test.streamlit.app/
+
 ## Disclaimer
 
 **Important:** Uploading `.joblib files` (or other serialized model files) and datasets like `.csv` files directly to GitHub is generally considered a bad practice due to security risks and repository size concerns. In a production environment, it's recommended to store these files in a secure, dedicated storage solution (e.g., cloud storage services). However, for the sake of simplicity and to ensure that everyone can easily replicate this tutorial, the necessary `.joblib` and `.csv` files have been included in this repository.
