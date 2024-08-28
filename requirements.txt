@@ -1,0 +1,6 @@
+ipykernel
+scikit-learn==1.5.1
+joblib
+pandas
+numpy
+streamlit==1.38.0
